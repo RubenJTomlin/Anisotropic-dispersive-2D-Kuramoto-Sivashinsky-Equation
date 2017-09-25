@@ -1,6 +1,6 @@
 # Anisotropic-dispersive-2D-Kuramoto-Sivashinsky-Equation
 
-A .exe, datafile and matlab script to perform and analyse numerical simulations.
+An .exe, datafile and matlab script to perform and analyse numerical simulations.
 
 Brief explanation of variables in the datafile (including one you should not change):
 
