@@ -15,3 +15,5 @@ The code loops over the streamwise length L, and dispersion parameter delta, in 
 a corresponds to alpha in the paper, it controls the aspect ratio of the 2D domain, the transverse length is L^a, and with a=1 the simulations are on square domains.
 
 NB: These simulations take a long time and output large data files!
+
+NB2: Even though the sidebar says these codes are 100% Matlab, they are not, only the data handling and plotting tool "plots_mgd2DKSE.m" should be run in Matlab. Before this you must run the .exe file (how you run this is dependent on your computer), to solve the 2D KSE and generate data.
